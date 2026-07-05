@@ -1,0 +1,12 @@
+{
+  "name": "Loxone Tablet Intercom",
+  "version": "1.0.0",
+  "slug": "loxone_intercom",
+  "description": "Lokale SIP intercom voor Loxone en Home Assistant tablets",
+  "arch": ["amd64", "aarch64", "armv7"],
+  "startup": "services",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
